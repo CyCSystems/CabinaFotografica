@@ -1,0 +1,13 @@
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\bin\Debug\CabinaFotografica.exe.config
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\bin\Debug\CabinaFotografica.exe
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\bin\Debug\CabinaFotografica.pdb
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\bin\Debug\CabinaFotografica.xml
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\bin\Debug\WebCAM.dll
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.CabinaFotografica.resources
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.Msg.resources
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.Resources.resources
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.vbproj.GenerateResource.Cache
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.exe
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.xml
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.pdb
+C:\Users\3plgtsergiosv\Source\Workspaces\CabinaFotografica\CabinaFotografica\obj\Debug\CabinaFotografica.vbprojResolveAssemblyReference.cache
